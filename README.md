@@ -9,4 +9,4 @@ code used to encode the video is available in `convert_to_c_header.py`, the vide
 Any video can be used in this manner, just resize using ffmpeg -> use the python script to encode to the C header -> copy paste into the file and recompile project.
 
 
-This project uses (https://github.com/lexus2k/lcdgfx)[lcdgfx], amazing library :D
+This project uses [https://github.com/lexus2k/lcdgfx](lcdgfx), amazing library :D
